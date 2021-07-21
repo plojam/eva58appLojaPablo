@@ -1,0 +1,7 @@
+{
+  "name": "eva58appLojaPablo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
